@@ -1,0 +1,222 @@
+body {
+	padding: 0;
+	margin: 0;
+}
+
+.sp {
+	color: #F96635;
+
+}
+
+.sp_bg {
+	background-color: #FBE8E1;
+}
+
+.sp_title {
+	
+}
+
+.lv {
+	color: #000000;
+
+}
+
+.lv_bg {
+	background-color: #FCF9EC;
+}
+
+.mb {
+	color: #8B572A;
+
+}
+
+.mb_bg {
+	background-color: #C0F49E;
+}
+
+.wc {
+	color: #FFFFFF;
+
+}
+
+.wc_bg {
+	background-color: #6F533A;
+}
+
+.gc {
+	color: #8B572A;
+
+}
+
+.gc_bg {
+	background-color: #E2CA9A;
+}
+
+.in_bg {
+	background-color: #E9FCF7;
+}
+.q_bg {
+	background-color: #E9FCF7;
+	border-width: 15%;
+	border-color: #FFF;
+}
+
+h1 {
+
+}
+
+h2 {
+font-family: 'Montserrat-Bold', sans-serif;
+font-size: 80px;
+margin: 20px;
+text-align: center;
+}
+
+h3{
+font-family: 'Montserrat', sans-serif;
+font-size: 50px;
+margin: 0;
+text-align: center;
+}
+p{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 25px;
+	padding-left: 15px;
+
+}
+.text {
+	display: block;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 25px;
+}
+
+.ice_cream {
+	width: 300px;
+	display: inline-block;
+	margin-right: 25px;
+}
+
+button{
+
+  background: rgba(0,0,0,0);
+  border-radius: 3px;
+  font-family: 'Montserrat', sans-serif; 
+  font-size: 20px;
+  padding: 15px 20px 15px 20px;
+  margin-top: 30px;
+
+
+}
+
+.retake_quiz {
+	text-align: center;
+}
+
+.in_bt{
+
+color: #F96635;
+border: solid 2px #F96635;
+
+}
+.in_bt:hover {
+	background:#F96635;
+	color: #E9FCF7;
+}
+
+.sp_bt{
+
+color: #F96635;
+border: solid 2px #F96635;
+	
+}
+.sp_bt:hover {
+	background:#F96635;
+	color: #FBE8E1;
+}
+
+.lv_bt{
+	color: #000;
+	border: solid 2px #000;
+}
+.lv_bt:hover {
+	background:#000;
+	color: #FCF9EC;
+}
+
+.mb_bt{
+	color: #8B572A;
+	border: solid 2px #8B572A;
+	
+}
+.mb_bt:hover {
+	background:#8B572A;
+	color: #C0F49E;
+}
+
+.wc_bt{
+	color: #FFFFFF;
+	border: solid 2px #FFFFFF;
+	
+}
+.wc_bt:hover {
+	background:#FFFFFF;
+	color: #6F533A;
+}
+
+.gc_bt{
+	color: #8B572A;
+	border: solid 2px #8B572A;
+	
+}
+.gc_bt:hover {
+	background:#8B572A;
+	color: #E2CA9A;
+}
+
+.in_img {
+	
+	display: inline-block;
+	text-align: center;
+	margin-top: 15px;
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+.index_img {
+	width: 250px;
+	margin: 25px;
+
+}
+
+#flavs-form{
+	font-family: 'Montserrat', sans-serif ;
+}
+h4 {
+	font-family: 'Montserrat', sans-serif ;
+	font-size: 20px;
+	margin: 0;
+	font-weight: normal;
+
+}
+
+#center {
+	margin-left:5%;
+}
+
+#left_side {
+	width: 200px;
+	height: 100%;
+	background-color: #FFF;
+	float: left;
+}
+#right_side {
+	width: 200px;
+	height: 100%;
+	background-color: #FFF;
+	float: right;
+}
+#top_question{
+	margin-top: 20px;
+
+}
